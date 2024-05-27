@@ -1,0 +1,9 @@
+.product{
+    border: 1px solid black;
+    margin: 1rem 1.5rem;
+  }
+  .product img:hover{
+    transform: scale(1.02);
+    border: 1px solid black;
+    box-shadow: 0 10px 20px rgba(239, 73, 31, 0.19), 0 6px 6px rgba(239, 73, 31, 0.23);
+  }
